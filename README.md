@@ -3,8 +3,7 @@
 ###### Date created: May 23, 2016
 ###### This is a README file explaining a repo and providing my Data Science profile from Unit 1.
 
- A "repo" is a space on GitHub in which originally "socially coded" computer programs were stored
- to make it easy for a number of collaborators to work together to build these programs. But the service
+ A "repo" represents a project's source code and is stored on GitHub's servers. Originally, "socially coded" computer programs were stored to make it easy for a number of collaborators to work together to build these programs. But the service
  has expanded beyond it's initial scope to provide a platform upon which a variety of researchers can 
  store, access, collaborate with others and version control their files. It facilitates the process of making
  research more reproducible.
